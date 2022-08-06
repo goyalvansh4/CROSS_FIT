@@ -14,7 +14,7 @@ body{
     background-color: black;
     padding-top: 5rem;
     padding-bottom: 2.5rem;
-    box-shadow: 0px 1px #888888;
+    box-shadow: 1px 1px #888888;
 }
 .nav_area .nav_logo{
     margin-left: 10rem;
@@ -263,8 +263,7 @@ body{
     margin: .1rem .5rem;
     padding-top: 5rem;
     padding-bottom: 2.5rem;
-    border-top: 1px solid #888888;
-    border-bottom: 1px solid #888888;
+    border: 1px solid #888888;
 }
 
 .footer_area .logo{
